@@ -1,22 +1,22 @@
 # AndroidAppOzdilek
 JavaOzdilekOdev
-#
-	“Özdilekteyim” uygulaması açılır
+
+	“Özdilekteyim” uygulaması açılır\n
 	
-  #Uygulamanın açıldığı kontrol edilir
-•	Alışverişe başla butonuna tıklanır
-•	Alışveriş sayfasının açıldıgı doğrulanır
-•	Katogiriler Sayfası Açılır
-•	Katogoriler Sayfasının açıldıgı dogrulanır
-•	Menüden “Kadın” Seçeneğine tıklanır
-•	“pantolon” kategorisi açılır
-•	Sayfanın en aşağı kısmına doğru iki kere scrol edilir.
-•	Ürünlerden rasgele bir ürün seçilir.
-•	Ürün detay sayfası açıldığı kontrol edilir.
-•	Favoriler butonuna tıklanır.
-•	Giriş yapma sayfasının açıldığı doğrulanır.
-•	Kullanıcı adı alanına “text” bilgisi girilir
-•	Password alanına şifre yazılır
-•	Geri butonuna 2 kere tıklanır.
-•	Rasgele bir ürün seçilir.
+ 	Uygulamanın açıldığı kontrol edilir\n
+•	Alışverişe başla butonuna tıklanır\n
+•	Alışveriş sayfasının açıldıgı doğrulanır\n
+•	Katogiriler Sayfası Açılır\n
+•	Katogoriler Sayfasının açıldıgı dogrulanır\n
+•	Menüden “Kadın” Seçeneğine tıklanır\n
+•	“pantolon” kategorisi açılır\n
+•	Sayfanın en aşağı kısmına doğru iki kere scrol edilir.\n
+•	Ürünlerden rasgele bir ürün seçilir.\n
+•	Ürün detay sayfası açıldığı kontrol edilir.\n
+•	Favoriler butonuna tıklanır.\n
+•	Giriş yapma sayfasının açıldığı doğrulanır.\n
+•	Kullanıcı adı alanına “text” bilgisi girilir\n
+•	Password alanına şifre yazılır\n
+•	Geri butonuna 2 kere tıklanır.\n
+•	Rasgele bir ürün seçilir.\n
 •	Seçilen ürün sepete eklenir.
