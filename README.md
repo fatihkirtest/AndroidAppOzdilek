@@ -1,8 +1,9 @@
 # AndroidAppOzdilek
 JavaOzdilekOdev
-
-•	“Özdilekteyim” uygulaması açılır
-•	Uygulamanın açıldığı kontrol edilir
+#
+	“Özdilekteyim” uygulaması açılır
+	
+  #Uygulamanın açıldığı kontrol edilir
 •	Alışverişe başla butonuna tıklanır
 •	Alışveriş sayfasının açıldıgı doğrulanır
 •	Katogiriler Sayfası Açılır
