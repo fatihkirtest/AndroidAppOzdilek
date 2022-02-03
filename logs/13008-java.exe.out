@@ -1,0 +1,78 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1126milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1126"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 59843"}
+{"logLevel":"info","message":"Listening on port:59843"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.checkProductDetail' and 'ProductDetail.checkProductDetail'"}
+{"logLevel":"debug","message":"Found Ürün Detay Sayfasını Kontrol Et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Category.clickKadin' and 'Category.clickKadin'"}
+{"logLevel":"debug","message":"Found Kategorilerden Kadın'ı Seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginPage.writeLoginBoxes' and 'LoginPage.writeLoginBoxes'"}
+{"logLevel":"debug","message":"Found Giris Yap Sayfasi Kontrol Et 2 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.secondScrollDown' and 'ProductDetail.secondScrollDown'"}
+{"logLevel":"debug","message":"Found Sayfayı Aşağı İkinci Kez Kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginPage.backToPage' and 'LoginPage.backToPage'"}
+{"logLevel":"debug","message":"Found Bir Önceki Sayfaya Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.clickElementByxpath' and 'ProductDetail.clickElementByxpath'"}
+{"logLevel":"debug","message":"Found {} Beden Seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Category.openCategoryPage' and 'Category.openCategoryPage'"}
+{"logLevel":"debug","message":"Found Kategoriler Sayfasını Aç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Category.checkCategoryPage' and 'Category.checkCategoryPage'"}
+{"logLevel":"debug","message":"Found Kategoriler Sayfasının Açıldığını Kontrol Et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Category.clickPantolon' and 'Category.clickPantolon'"}
+{"logLevel":"debug","message":"Found Pantolon Kategorisini Seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.scrollDown' and 'ProductDetail.scrollDown'"}
+{"logLevel":"debug","message":"Found Sayfayı Aşağı Kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'FirstPage.checkOpen' and 'FirstPage.checkOpen'"}
+{"logLevel":"debug","message":"Found Uygulamanın Çalıştığını Kontrol Et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginPage.checkLoginPage' and 'LoginPage.checkLoginPage'"}
+{"logLevel":"debug","message":"Found Giris Yap Sayfasi Kontrol Et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.findAllProducts' and 'ProductDetail.findAllProducts'"}
+{"logLevel":"debug","message":"Found {} Rastgele Ürün Seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'FirstPage.clickStartShopping' and 'FirstPage.clickStartShopping'"}
+{"logLevel":"debug","message":"Found Alış Verişe Başla Butonuna Bas in current project scope."}
+{"logLevel":"debug","message":"Comparing 'FirstPage.checkMainPageText' and 'FirstPage.checkMainPageText'"}
+{"logLevel":"debug","message":"Found Alışveriş Sayfasının Açıldığını Kontrol Et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.addToCard' and 'ProductDetail.addToCard'"}
+{"logLevel":"debug","message":"Found Sepete Ekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'ProductDetail.addFav' and 'ProductDetail.addFav'"}
+{"logLevel":"debug","message":"Found Favorilere Ekle in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSayfayı Aşağı İkinci Kez Kaydır : public void secondScrollDown()"}
+{"logLevel":"debug","message":"\tBir Önceki Sayfaya Git : public void backToPage()"}
+{"logLevel":"debug","message":"\tUygulamanın Çalıştığını Kontrol Et : public void checkOpen() throws InterruptedException"}
+{"logLevel":"debug","message":"\tFavorilere Ekle : public void addFav() throws InterruptedException"}
+{"logLevel":"debug","message":"\tAlışveriş Sayfasının Açıldığını Kontrol Et : public void checkMainPageText() throws InterruptedException"}
+{"logLevel":"debug","message":"\tAlış Verişe Başla Butonuna Bas : public void clickStartShopping() throws InterruptedException"}
+{"logLevel":"debug","message":"\tPantolon Kategorisini Seç : public void clickPantolon() throws InterruptedException"}
+{"logLevel":"debug","message":"\tSepete Ekle : public void addToCard() throws InterruptedException"}
+{"logLevel":"debug","message":"\tGiris Yap Sayfasi Kontrol Et : public void checkLoginPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} Rastgele Ürün Seç : public void findAllProducts(String Key)"}
+{"logLevel":"debug","message":"\t{} Beden Seç : public void clickElementByxpath(String Key)"}
+{"logLevel":"debug","message":"\tKategoriler Sayfasını Aç : public void openCategoryPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tÜrün Detay Sayfasını Kontrol Et : public void checkProductDetail() throws InterruptedException"}
+{"logLevel":"debug","message":"\tGiris Yap Sayfasi Kontrol Et 2 : public void writeLoginBoxes()"}
+{"logLevel":"debug","message":"\tKategoriler Sayfasının Açıldığını Kontrol Et : public void checkCategoryPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tSayfayı Aşağı Kaydır : public void scrollDown() throws InterruptedException"}
+{"logLevel":"debug","message":"\tKategorilerden Kadın'ı Seç : public void clickKadin() throws InterruptedException"}
+Oca 31, 2022 2:48:28 ÖS io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Uygulamanın Çalıştığını Kontrol Et' using 'class FirstPage.checkOpen"}
+{"logLevel":"debug","message":"Executing 'Alış Verişe Başla Butonuna Bas' using 'class FirstPage.clickStartShopping"}
+{"logLevel":"debug","message":"Executing 'Alışveriş Sayfasının Açıldığını Kontrol Et' using 'class FirstPage.checkMainPageText"}
+{"logLevel":"debug","message":"Executing 'Kategoriler Sayfasını Aç' using 'class Category.openCategoryPage"}
+{"logLevel":"debug","message":"Executing 'Kategoriler Sayfasının Açıldığını Kontrol Et' using 'class Category.checkCategoryPage"}
+{"logLevel":"debug","message":"Executing 'Kategorilerden Kadın'ı Seç' using 'class Category.clickKadin"}
+{"logLevel":"debug","message":"Executing 'Pantolon Kategorisini Seç' using 'class Category.clickPantolon"}
+{"logLevel":"debug","message":"Executing 'Sayfayı Aşağı Kaydır' using 'class ProductDetail.scrollDown"}
+{"logLevel":"debug","message":"Executing 'Sayfayı Aşağı İkinci Kez Kaydır' using 'class ProductDetail.secondScrollDown"}
+{"logLevel":"debug","message":"Executing '{} Rastgele Ürün Seç' using 'class ProductDetail.findAllProducts"}
+{"logLevel":"debug","message":"Executing 'Ürün Detay Sayfasını Kontrol Et' using 'class ProductDetail.checkProductDetail"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
